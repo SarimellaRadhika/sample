@@ -1,0 +1,23 @@
+Create React app 2.0::
+
+
+
+What's new:
+
+-> import svg as a react component
+
+========================================
+
+Babel::::
+
+--> It is mainly used to convert ECMAScript 2015+ code into a backwards
+compatible version of javascript.
+
+--> Babel has support for the latest version if JavaScript through syntax transformers.
+
+
+webpack:::
+
+-->Your codebase can be split into multiple chunks and those chunks can be loaded
+on demand reducing the initial loading
+
